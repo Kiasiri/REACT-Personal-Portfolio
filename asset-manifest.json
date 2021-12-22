@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kiasiri/REACT-Personal-Portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/Kiasiri/REACT-Personal-Portfolio/static/js/main.64c3933c.js",
+    "static/js/787.52056c2d.chunk.js": "/Kiasiri/REACT-Personal-Portfolio/static/js/787.52056c2d.chunk.js",
+    "index.html": "/Kiasiri/REACT-Personal-Portfolio/index.html",
+    "main.073c9b0a.css.map": "/Kiasiri/REACT-Personal-Portfolio/static/css/main.073c9b0a.css.map",
+    "main.64c3933c.js.map": "/Kiasiri/REACT-Personal-Portfolio/static/js/main.64c3933c.js.map",
+    "787.52056c2d.chunk.js.map": "/Kiasiri/REACT-Personal-Portfolio/static/js/787.52056c2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.64c3933c.js"
+  ]
+}
