@@ -4,7 +4,6 @@ export default function Contact() {
   const [name, setName] = React.useState("");
   const [email, setEmail] = React.useState("");
   const [message, setMesssage] = React.useState("");
-  const [error, setError] = React.useState("");
 
   function encode(data) {
     return Object.keys(data)
@@ -26,7 +25,7 @@ export default function Contact() {
   }
 
   return (
-    <form className="" name="contact">
+    <form className="" name="contact" onSubmit={handleSubmit}>
       <h2 className="">Contact Me Here</h2>
       <p className="">Use the form below to send a message.</p>
       <div className="">

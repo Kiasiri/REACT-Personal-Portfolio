@@ -1,11 +1,12 @@
 import React from "react";
-import { HashRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
+import Switch from "react-switch";
 import "./App.css";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
-import Projects from "./components/Portfolio/Projects";
-import About from "./components/About/About";
-import Contact from "./components/Contact/Contact";
+import Projects from "./components/Projects";
+import About from "./components/About";
+import Contact from "./components/Contact";
 
 function App() {
   return (
